@@ -1,11 +1,11 @@
-/*  
- *   Naam: Thijs van Kessel
- *   Klas: ic18ao.e
- *   Datum: 18-1-2019
- */
+/*
+     Naam: Thijs van Kessel
+     Klas: ic19ao.e
+     Datum: 28-12-2020
+*/
 
-int Led1 = 6;
-int Led2 = 7;
+int Led1 = 7;
+int Led2 = 6;
 int Button1 = 2;
 int Button2 = 3;
 int Button3 = 4;
